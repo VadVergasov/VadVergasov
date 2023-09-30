@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats-deploy-evph.vercel.app/api?username=VadVergasov&count_private=true&show_icons=true&theme=dark)
+![](https://github-readme-stats-deploy.vercel.app/api?username=VadVergasov&count_private=true&show_icons=true&theme=dark)
 
 ![](https://raw.githubusercontent.com/vadvergasov/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
